@@ -1,4 +1,4 @@
-# Data-Cleaning_MySQL
+# Data-Cleaning-MySQL
 
 Data Cleaning with MySQL
 
